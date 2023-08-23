@@ -1,0 +1,133 @@
+<!-- templates/home.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .loading {
+            display: none;
+            margin-top: 20px;
+        }
+
+        .iterations {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">Home</a>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/add">Add Employee Data</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/read">Read Employee Data</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/synergy">Synergy Graph</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <h2>Enter Project Requirements, Roles, and Team Size:</h2>
+        <form method="POST" action="/" onsubmit="return submitForm();" id="projectForm">
+            <!-- Project Requirements -->
+            <div class="form-group">
+                <label for="projects">Project Requirements (comma-separated):</label>
+                <input type="text" class="form-control" id="projects" name="projects" value="{{ projects }}">
+            </div>
+
+            <!-- Roles -->
+            <div class="form-group">
+                <label for="roles">Project Roles (comma-separated):</label>
+                <input type="text" class="form-control" id="roles" name="roles" value="{{ roles }}">
+            </div>
+
+            <!-- Team Size -->
+            <div class="form-group">
+                <label for="team_size">Team Size:</label>
+                <input type="number" class="form-control" id="team_size" name="team_size" value="{{ team_size }}">
+            </div>
+
+            <!-- Weights -->
+            <div class="form-group">
+                <label for="hierarchy_weight">Hierarchy Weight:</label>
+                <input type="number" class="form-control" id="hierarchy_weight" name="hierarchy_weight" step="0.01" value="{{ hierarchy_weight }}">
+            </div>
+            <div class="form-group">
+                <label for="rating_weight">Rating Weight:</label>
+                <input type="number" class="form-control" id="rating_weight" name="rating_weight" step="0.01" value="{{ rating_weight }}">
+            </div>
+            <div class="form-group">
+                <label for="appraisal_weight">Appraisal Weight:</label>
+                <input type="number" class="form-control" id="appraisal_weight" name="appraisal_weight" step="0.01" value="{{ appraisal_weight }}">
+            </div>
+            <div class="form-group">
+                <label for="synergy_weight">Synergy Weight:</label>
+                <input type="number" class="form-control" id="synergy_weight" name="synergy_weight" step="0.01" value="{{ synergy_weight }}">
+            </div>
+
+            <!-- Submit Button -->
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        <!-- Loading Symbol -->
+        <div class="loading" id="loadingSymbol" {% if not best_team %}style="display: block;"{% else %}style="display: none;"{% endif %}>
+            <img src="{{ url_for('static', filename='loading.gif') }}" alt="Loading...">
+            <p>Loading...</p>
+        </div>
+
+        <!-- Number of Iterations -->
+        <div class="iterations" id="iterations" {% if not best_team %}style="display: none;"{% endif %}>
+            {% if iterations %}
+            Number of Iterations: {{ iterations }}
+            {% endif %}
+        </div>
+
+        <!-- Best Team Result (If available) -->
+        {% if best_team %}
+        <h3>Best Team:</h3>
+        <ul>
+            {% for member in best_team %}
+            <li>{{ member[0] }} - {{ member[1] }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </div>
+    <script>
+        // Function to handle form submission and show/hide loading elements
+        function submitForm() {
+            const form = document.getElementById('projectForm');
+            const loadingDiv = document.getElementById('loadingSymbol');
+            const iterationsDiv = document.getElementById('iterations');
+    
+            // Hide the form and show the loading elements
+            form.style.display = 'none';
+            loadingDiv.style.display = 'block';
+            iterationsDiv.style.display = 'none';
+            
+            // Return true to submit the form
+            return true;
+        }
+    
+        // Display the number of iterations and hide the loading elements when the best team is available
+        const loadingDiv = document.getElementById('loadingSymbol');
+        const iterationsDiv = document.getElementById('iterations');
+    
+        {% if iterations %}
+        // Display the number of iterations and hide the loading elements
+        iterationsDiv.innerHTML = `Number of Iterations: {{ iterations }}`;
+        loadingDiv.style.display = 'none';
+        {% else %}
+        // Hide the loading elements if iterations are not available
+        loadingDiv.style.display = 'none';
+        {% endif %}
+    </script>
+    
+</body>
+</html>

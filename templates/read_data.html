@@ -1,0 +1,86 @@
+<!-- templates/read_data.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Read Employee Data</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .highlight {
+            background-color: #fff3cd; /* Light yellow */
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">Home</a>
+        <div class="collapse navbar-collapse">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/add">Add Employee Data</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/read">Read Employee Data</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/synergy">Synergy Graph</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container">
+        <h2>Processed Employee Data</h2>
+        <input type="text" id="searchInput" class="form-control" placeholder="Search...">
+        <table class="table table-bordered mt-2" id="employeeTable">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Role</th>
+                    <th>Level</th>
+                    <th>Skills</th>
+                    <th>Rating</th>
+                    <th>Appraisals</th>
+                    <th>Availability</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in data %}
+                    <tr>
+                        <td>{{ row['Name'] }}</td>
+                        <td>{{ row['Role'] }}</td>
+                        <td>{{ row['Level'] }}</td>
+                        <td>{{ row['Skills'] }}</td>
+                        <td>{{ row['Rating'] }}</td>
+                        <td>{{ row['Appraisals'] }}</td>
+                        <td>{{ row['Availability'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#searchInput").on("keyup", function () {
+                var value = $(this).val().toLowerCase();
+                if (!value) {
+                    // Empty search box, show all rows without highlighting
+                    $("#employeeTable tbody tr").show();
+                    $("#employeeTable tbody td").removeClass("highlight");
+                } else {
+                    $("#employeeTable tbody tr").hide().filter(function () {
+                        var rowText = $(this).text().toLowerCase();
+                        return rowText.indexOf(value) > -1;
+                    }).show();
+                    $("#employeeTable tbody td").removeClass("highlight");
+                    $("#employeeTable tbody td").filter(function () {
+                        var cellText = $(this).text().toLowerCase();
+                        return cellText.indexOf(value) > -1;
+                    }).addClass("highlight");
+                }
+            });
+        });
+    </script>
+</body>
+</html>
