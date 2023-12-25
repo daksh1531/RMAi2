@@ -6,6 +6,7 @@ import networkx as nx
 import ast
 import os
 from tabulate import tabulate as tb
+from networkx.readwrite import json_graph
 
 os.environ['PYTHONUNBUFFERED'] = '1'
 
@@ -24,11 +25,21 @@ synergy_weight = 0.25
 
 def generate_synergy_graph(data):
     graph = nx.Graph()
+    project_column = 'Projects'  # Replace with the actual column name in your CSV
+
     for i, employee1 in data.iterrows():
         for j, employee2 in data.iterrows():
             if i != j and employee1['Name'] != '' and employee2['Name'] != '':
-                synergy_score = random.randint(0, 3)  # Randomly assign a synergy score between 0 and 3
+                if project_column in data.columns:
+                    projects1 = set(str(employee1[project_column]).split(','))
+                    projects2 = set(str(employee2[project_column]).split(','))
+                    common_projects = projects1.intersection(projects2)
+                    synergy_score = len(common_projects)
+                else:
+                    synergy_score = random.randint(0, 3)
+
                 graph.add_edge(employee1['Name'], employee2['Name'], weight=synergy_score)
+
     return graph
 
 
@@ -448,7 +459,9 @@ def read_data():
 
 @app.route('/synergy')
 def synergy_graph():
-    return render_template('synergy.html')
+    data = pd.read_csv('processed_data.csv')
+    synergy_graph_data = generate_synergy_graph(data)
+    return render_template('synergy.html', synergy_graph_data=json_graph.node_link_data(synergy_graph_data))
 
 if __name__ == '__main__':
     # Check if the processed data file exists, if not, extract attributes from the raw data file
