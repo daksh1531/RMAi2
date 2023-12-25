@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synergy Graph</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.7.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/networkx/2.6.3/networkx.min.js"></script>
+</head>
+<body>
+
+<h1>Synergy Graph</h1>
+
+<div id="synergy-graph"></div>
+<button onclick="spreadOut()">Spread Out</button>
+
+<script>
+    // Load the synergy graph data
+    var synergyGraphData = {{ synergy_graph_data | tojson | safe }};
+
+    // Create a new force-directed graph
+    var simulation = d3.forceSimulation()
+        .force("link", d3.forceLink().id(function(d) { return d.id; }))
+        .force("charge", d3.forceManyBody())
+        .force("center", d3.forceCenter(window.innerWidth / 2, window.innerHeight / 2));
+
+    var svg = d3.select("#synergy-graph").append("svg")
+        .attr("width", window.innerWidth)
+        .attr("height", window.innerHeight)
+        .call(d3.zoom().on("zoom", function (event) {
+            svg.attr("transform", event.transform);
+        }))
+        .append("g");
+
+    // Extract nodes and links from the graph data
+    var nodes = synergyGraphData.nodes;
+    var links = synergyGraphData.links;
+
+    // Create the graph links
+    var link = svg.selectAll("line")
+        .data(links)
+        .enter().append("line")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6)
+        .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+
+    // Create the graph nodes
+    var node = svg.selectAll("circle")
+        .data(nodes)
+        .enter().append("circle")
+        .attr("r", 5)
+        .attr("fill", "#000")
+        .call(d3.drag()
+            .on("start", dragstarted)
+            .on("drag", dragged)
+            .on("end", dragended));
+
+    // Add labels to the nodes
+    var label = svg.selectAll(null)
+        .data(nodes)
+        .enter()
+        .append('text')
+        .text(d => d.id)
+        .attr('font-size', 10)
+        .attr('dx', 15)
+        .attr('dy', 4);
+
+    simulation
+        .nodes(nodes)
+        .on("tick", ticked);
+
+    simulation.force("link")
+        .links(links);
+
+    function ticked() {
+        link
+            .attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; });
+
+        node
+            .attr("cx", function(d) { return d.x; })
+            .attr("cy", function(d) { return d.y; });
+
+        label
+            .attr('x', d => d.x)
+            .attr('y', d => d.y);
+    }
+
+    function dragstarted(event, d) {
+        if (!event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(event, d) {
+        d.fx = event.x;
+        d.fy = event.y;
+    }
+
+    function dragended(event, d) {
+        if (!event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+    }
+
+    // Function to spread out the nodes
+    function spreadOut() {
+        simulation.force("charge", d3.forceManyBody().strength(-2000));
+        simulation.alpha(1).restart();
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,679 @@
+Employee ID,Name,Exp.,Core Technology,Skills,Skill Rating,behavioural,appraisal
+1834,Abhijeet Ligade,7y 4m,Angular,J2EE,Advanced,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,Core Java,Advanced,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,MVC,Advanced,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,XHTML,Proficient,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,XML,Proficient,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,HTML5,Proficient,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,HTML,Proficient,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,UI Development,Proficient,0,3.6
+1834,Abhijeet Ligade,7y 4m,Angular,Bootstrap,Advanced,0,3.6
+1712,Abhishek Kale,7y 11m,ReactJs,HTML,Intermediate,4.5,3.9
+1712,Abhishek Kale,7y 11m,ReactJs,MS SQL Server,Intermediate,4.5,3.9
+1712,Abhishek Kale,7y 11m,ReactJs,UI Development,Proficient,4.5,3.9
+1712,Abhishek Kale,7y 11m,ReactJs,Javascript,Proficient,4.5,3.9
+1712,Abhishek Kale,7y 11m,ReactJs,ReactJS,Proficient,4.5,3.9
+1712,Abhishek Kale,7y 11m,ReactJs,JQuery,Proficient,4.5,3.9
+1712,Abhishek Kale,7y 11m,ReactJs,HTML5,Proficient,4.5,3.9
+1903,Abhishek Sutar,6y 6m,.NET,MS SQL Server,Advanced,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,Angular 2+,Advanced,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,NodeJS,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,AJAX,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,CSS,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,HTML,Advanced,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,UI Development,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,Bootstrap,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,SSRS,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,Web API,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,VB.Net,Proficient,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,C#,Advanced,0,3.6
+1903,Abhishek Sutar,6y 6m,.NET,ASP.Net Web Form,Advanced,0,3.6
+1853,Akanksha Shekhar,8y 2m,PHP,Code Ignitor,Proficient,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,MongoDB,Proficient,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,MySQL,Advanced,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,SQL,Advanced,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,Javascript,Proficient,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,JQuery,Advanced,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,Plain PHP,Advanced,5,4.2
+1853,Akanksha Shekhar,8y 2m,PHP,Laravel,Advanced,5,4.2
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,SQL,Intermediate,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,MY SQL,Intermediate,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Bug Finding,Proficient,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Fundamentals of Automation Testing,Proficient,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Automation Testing,Proficient,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Manual Testing,Advanced,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,E-Commerce,Proficient,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Banking & Finance,Proficient,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Team Player,Advanced,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Time management,Advanced,5,4.4
+1908,Balwan Biradar,6y 1m,Manual + Automation Tester,Communication,Advanced,5,4.4
+1276,Darshan Bhosale,12y 5m,Manual Tester,Bug Finding,Expert,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Fundamentals of Automation Testing,Proficient,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Automation Testing,Proficient,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Manual Testing,Expert,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Core Java,Proficient,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,E-Commerce,Proficient,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Team Player,Advanced,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Time management,Proficient,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,Communication,Advanced,0,-
+1276,Darshan Bhosale,12y 5m,Manual Tester,MY SQL,Intermediate,0,-
+1940,Devendra Jadhav,6y 11m,.NET,Communication,Advanced,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,XML,Advanced,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,CSS3,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,HTML5,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,UI Development,Advanced,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Bootstrap,Advanced,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Web API,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Oracle,Proficient,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,ASP.Net MVC,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,MS SQL Server,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,C#,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Javascript,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,ASP.Net Web Form,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,JQuery,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,SQL,Advanced,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Interview techniques,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Problem Solving,Expert,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Team Player,Advanced,4,3.9
+1940,Devendra Jadhav,6y 11m,.NET,Time management,Advanced,4,3.9
+1680,Dinesh Patidar,7y 5m,.NET,SQL,Proficient,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,Azure,Intermediate,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,MS SQL Server,Proficient,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,Javascript,Expert,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,AJAX,Proficient,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,Angular Js,Proficient,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,JQuery,Expert,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,Web API,Advanced,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,MVC,Proficient,0,3.3
+1680,Dinesh Patidar,7y 5m,.NET,C#,Advanced,0,3.3
+1915,Disha Somkuwar,8y 2m,Node,NoSQL,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,MongoDB,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,MS SQL Server,Intermediate,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,MySQL,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,SQL,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,Javascript,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,NodeJs,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,CakePHP,Intermediate,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,Plain PHP,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,WordPress,Proficient,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,Drupal,Intermediate,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,AWS,Intermediate,5,4.4
+1915,Disha Somkuwar,8y 2m,Node,JQuery,Proficient,5,4.4
+1549,Femina Agravat,10y 8m,PHP,JQuery,Advanced,0,-
+1549,Femina Agravat,10y 8m,PHP,MySQL,Advanced,0,-
+1549,Femina Agravat,10y 8m,PHP,Plain PHP,Advanced,0,-
+1549,Femina Agravat,10y 8m,PHP,Javascript,Advanced,0,-
+1549,Femina Agravat,10y 8m,PHP,Symfony,Advanced,0,-
+1549,Femina Agravat,10y 8m,PHP,Code Ignitor,Proficient,0,-
+1549,Femina Agravat,10y 8m,PHP,AWS,Intermediate,0,-
+1549,Femina Agravat,10y 8m,PHP,AJAX,Advanced,0,-
+1549,Femina Agravat,10y 8m,PHP,CSS3,Intermediate,0,-
+1549,Femina Agravat,10y 8m,PHP,Backbone Js,Intermediate,0,-
+1549,Femina Agravat,10y 8m,PHP,HTML5,Intermediate,0,-
+1549,Femina Agravat,10y 8m,PHP,Bootstrap,Intermediate,0,-
+1905,Gouri Machale,2y 8m,Automation Tester,Security Testing,Intermediate,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Browser Compatibility Testing,Intermediate,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Regression Testing,Proficient,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Functional Testing,Proficient,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Test case development & execution,Proficient,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Bug Finding,Advanced,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Fundamentals of Performance Testing,Advanced,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,E-Commerce,Proficient,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Automation Testing,Intermediate,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,SQL,Intermediate,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Manual Testing,Advanced,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Team Player,Advanced,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Time management,Advanced,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Communication,Advanced,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,Selenium,Intermediate,0,4.3
+1905,Gouri Machale,2y 8m,Automation Tester,MY SQL,Intermediate,0,4.3
+1624,Karthick Kumar,7y 10m,BI,Javascript,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,HTML5,Proficient,5,4.4
+1624,Karthick Kumar,7y 10m,BI,JQuery,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,Bootstrap,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,MS SQL Server,Expert,5,4.4
+1624,Karthick Kumar,7y 10m,BI,MVC,Advanced,5,4.4
+1624,Karthick Kumar,7y 10m,BI,ASP,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,SASS,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,SQL,Advanced,5,4.4
+1624,Karthick Kumar,7y 10m,BI,Adobe Illustrator,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,WCF,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,Adobe Photoshop,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,MySQL,Proficient,5,4.4
+1624,Karthick Kumar,7y 10m,BI,ASP.Net Web Form,Proficient,5,4.4
+1624,Karthick Kumar,7y 10m,BI,Web API,Intermediate,5,4.4
+1624,Karthick Kumar,7y 10m,BI,C#,Proficient,5,4.4
+1624,Karthick Kumar,7y 10m,BI,UI Development,Proficient,5,4.4
+1624,Karthick Kumar,7y 10m,BI,CSS3,Proficient,5,4.4
+1880,Kaushal Oza,6y 9m,React Native,Team Player,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,SQL,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Photoshop,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Mobile development,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,J2EE,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Time management,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Javascript,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,MVVM,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,android.database,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Core Java,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Communication,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,ReactNative,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,MVP,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,android.content,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Junit,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,NodeJS,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,MVC,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,prototype,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Balsamiq,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Oracle,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,ReactJS,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Android studio,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,android.app,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,JQuery,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Adobe XD,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,SQL,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,kotlin - Android,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,android.opengl,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,MY SQL,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Scriptaculous,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Java - Android,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,android.preference,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Social  Network,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Security Testing,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Xcode - iOS,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,android.location,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,CRM,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Adobe Photoshop,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,User Acceptance Testing,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Real Estate,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Adobe,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Telecom,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Wireframe,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,UIKit.framework,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Retail Management,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Designs,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Functional Testing,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,XML,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Health Care,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Mockup,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,CSS3,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,E-Commerce,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Database Administration,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Bug Finding,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,HTML5,Proficient,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Banking & Finance,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,SQLite,Expert,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Fundamentals of Performance Testing,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,UI Development,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Interview techniques,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Oracle,Intermediate,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Problem Solving,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,MySQL,Advanced,3,3.9
+1880,Kaushal Oza,6y 9m,React Native,Manual Testing,Proficient,3,3.9
+1927,Khushboo Bende,6y 6m,Manual QA,Core Java,Intermediate,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Health Care,Proficient,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Team Player,Proficient,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Time management,Proficient,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Communication,Proficient,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Bug Finding,Intermediate,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Fundamentals of Performance Testing,Intermediate,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Fundamentals of Automation Testing,Intermediate,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Automation Testing,Intermediate,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,Manual Testing,Advanced,0,4.2
+1927,Khushboo Bende,6y 6m,Manual QA,android.location,Intermediate,0,4.2
+1865,Mahantesh Kumbar,8y 4m,PHP,HTML5,Expert,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,UI Development,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Bootstrap,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,NodeJS,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Plain PHP,Expert,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Angular Js,Proficient,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Laravel,Expert,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,AWS,Proficient,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Postgres,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,MySQL,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Javascript,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Angular,Proficient,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,JQuery,Proficient,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Team Player,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Time management,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,Communication,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,MY SQL,Advanced,0,3.9
+1865,Mahantesh Kumbar,8y 4m,PHP,CSS3,Advanced,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,CSS3,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,HTML5,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,VB.Net,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Bootstrap,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,C#,Advanced,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,ASP.Net Web Form,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Agile,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,MVC,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Azure,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Postgres,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,SSRS,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,SSIS,Intermediate,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,MS SQL Server,Advanced,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,WCF,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,SQL,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Web API,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Javascript,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,ASP.Net MVC,Advanced,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,JQuery,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,Windows Forms,Proficient,0,3.9
+1396,Mangesh Wazarkar,9y 6m,.NET,XML,Intermediate,0,3.9
+1518,Manoj Mahamunkar,9y 11m,PHP,SQL,Proficient,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,MySQL,Proficient,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,JQuery,Proficient,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,ReactJS,Intermediate,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,Plain PHP,Advanced,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,Laravel,Proficient,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,Symfony,Intermediate,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,Zend,Intermediate,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,prototype,Intermediate,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,Scriptaculous,Intermediate,5,3.8
+1518,Manoj Mahamunkar,9y 11m,PHP,MS SQL Server,Proficient,5,3.8
+1668,Mayurkumar Chaniyara,10y 8m,IOS,Foundation.framework,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,SQLite,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,MediaPlayer.framework,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,MapKit.framework,Advanced,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,UIKit.framework,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,MVVM,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,MVP,Intermediate,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,MVC,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,swift - iOS,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,objective C - iOS,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,Mobile development,Proficient,0,4.1
+1668,Mayurkumar Chaniyara,10y 8m,IOS,CoreFoundation.framework,Proficient,0,4.1
+1896,Megha Kadam,2y 8m,Automation Tester,Telecom,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Bug Finding,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,E-Commerce,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Fundamentals of Performance Testing,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Team Player,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Fundamentals of Automation Testing,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Time management,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Automation Testing,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Communication,Proficient,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Manual Testing,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Selenium,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Core Java,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,SQL,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,MY SQL,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,QA certification,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Usability Testing,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Security Testing,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,User Acceptance Testing,Proficient,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Browser Compatibility Testing,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Regression Testing,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,MySQL,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Functional Testing,Advanced,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,SQL,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Test case development & execution,Intermediate,0,4.5
+1896,Megha Kadam,2y 8m,Automation Tester,Health Care,Intermediate,0,4.5
+1664,Mukund Topiwala,10y 11m,PHP,prototype,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,JQuery,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,XHTML,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,XML,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,CSS3,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,MongoDB,Intermediate,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,CSS,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Database Administration,Intermediate,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,HTML5,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Plain PHP,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,NoSQL,Intermediate,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,HTML,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Symfony,Intermediate,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,PDO,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,UI Development,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Laravel,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Database abstraction,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Bootstrap,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Smarty,Proficient,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Postgres,Intermediate,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Code Ignitor,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,MySQL,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Zend,Intermediate,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Javascript,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,AJAX,Advanced,4.333333333,4.1
+1664,Mukund Topiwala,10y 11m,PHP,Angular Js,Intermediate,4.333333333,4.1
+1531,Nausheen Khanam,10y 2m,PHP,HTML,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,Bootstrap,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,Plain PHP,Advanced,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,Laravel,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,MySQL,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,Magento,Advanced,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,SQL,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,Javascript,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,AJAX,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,JQuery,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,CSS3,Intermediate,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,CSS,Proficient,4.333333333,3.7
+1531,Nausheen Khanam,10y 2m,PHP,HTML5,Proficient,4.333333333,3.7
+1623,Neelam Ratani,8y 11m,.NET,Team Player,Expert,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,MS Access,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,TDD,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Time management,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Communication,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,MS SQL Server,Expert,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,SSRS,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Angular 2+,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Oracle,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,MySQL,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,WCF,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Angular,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,VB.Net,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,SQL,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,SQL,Expert,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Web API,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Angular,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,C#,Expert,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,MY SQL,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Javascript,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,ASP.Net MVC,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,ASP.Net Web Form,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Bug Finding,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Windows Forms,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,NodeJS,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,MVC,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Automation Testing,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Manual Testing,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Vuejs,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,XML,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,ReactJS,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,AJAX,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,CSS3,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Angular Js,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,HTML5,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,JQuery,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,UI Development,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,CRM,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Bootstrap,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Interview techniques,Proficient,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,ASP,Intermediate,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,Problem Solving,Advanced,0,4.3
+1623,Neelam Ratani,8y 11m,.NET,.Net core,Proficient,0,4.3
+1528,Pandian K C,8y 3m,.NET,AJAX,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,HTML5,Intermediate,4,2.9
+1528,Pandian K C,8y 3m,.NET,Bootstrap,Intermediate,4,2.9
+1528,Pandian K C,8y 3m,.NET,JQuery,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,CSS3,Intermediate,4,2.9
+1528,Pandian K C,8y 3m,.NET,Web API,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,ASP.Net MVC,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,Windows Forms,Intermediate,4,2.9
+1528,Pandian K C,8y 3m,.NET,C#,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,MVC,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,ASP.NET Storefront,Intermediate,4,2.9
+1528,Pandian K C,8y 3m,.NET,WPF,Intermediate,4,2.9
+1528,Pandian K C,8y 3m,.NET,MS SQL Server,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,SQL,Proficient,4,2.9
+1528,Pandian K C,8y 3m,.NET,Javascript,Proficient,4,2.9
+1900,Pradnya Kamble,2y 8m,Automation Tester,MySQL,Advanced,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,SQL,Advanced,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Team Player,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Time management,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Communication,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,SQL,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,MY SQL,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Bug Finding,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Automation Testing,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Manual Testing,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Core Java,Expert,0,4.2
+1900,Pradnya Kamble,2y 8m,Automation Tester,Plain PHP,Expert,0,4.2
+1872,Prajakta Tiwari,6y 10m,Node,NodeJS,Advanced,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,AJAX,Advanced,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,Angular Js,Advanced,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,JQuery,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,Web services,Intermediate,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,AWS,Intermediate,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,Sql Alchemy (ORM),Intermediate,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,MongoDB,Advanced,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,CSS3,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,NoSQL,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,CSS,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,Postgres,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,HTML5,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,MySQL,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,UI Development,Intermediate,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,SQL,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,Bootstrap,Proficient,0,4.0
+1872,Prajakta Tiwari,6y 10m,Node,Javascript,Proficient,0,4.0
+1745,Pratik Nanda,7y 8m,Manual QA,Problem Solving,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Team Player,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Automation Testing,Intermediate,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Manual Testing,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Time management,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Communication,Expert,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,SQL,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,MY SQL,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,QA certification,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Social  Network,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Usability Testing,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Security Testing,Intermediate,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Real Estate,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,User Acceptance Testing,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Telecom,Intermediate,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Browser Compatibility Testing,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Retail Management,Intermediate,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Regression Testing,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Health Care,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Functional Testing,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,E-Commerce,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Test case development & execution,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Banking & Finance,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Bug Finding,Advanced,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Interview techniques,Proficient,0,3.9
+1745,Pratik Nanda,7y 8m,Manual QA,Fundamentals of Performance Testing,Intermediate,0,3.9
+1274,Pravin Gaikwad,12y 7m,ReactJs,XHTML,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,CSS3,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,CSS,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,HTML5,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,HTML,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Adobe Illustrator,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,UI Development,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Adobe Photoshop,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Zurb Foundation,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Wireframe,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Bootstrap,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Designs,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Compas,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Mockup,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,SASS,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Javascript,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,WordPress,Advanced,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,ReactNative,Advanced,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,ReactJS,Expert,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,AJAX,Advanced,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,Angular Js,Intermediate,0,3.7
+1274,Pravin Gaikwad,12y 7m,ReactJs,JQuery,Expert,0,3.7
+1920,PremPrakash Singh,7y 0m,Automation Tester,Browser Compatibility Testing,Proficient,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Regression Testing,Expert,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Fundamentals of Automation Testing,Advanced,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Functional Testing,Expert,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Automation Testing,Expert,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Test case development & execution,Advanced,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Core Java,Proficient,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Bug Finding,Advanced,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,NodeJS,Proficient,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,ReactJS,Proficient,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,Selenium,Advanced,0,4.5
+1920,PremPrakash Singh,7y 0m,Automation Tester,User Acceptance Testing,Proficient,0,4.5
+1606,Rakesh Kumbhar,6y 11m,Other,Azure,Intermediate,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,MS Access,Proficient,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Oracle,Intermediate,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Interview techniques,Advanced,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Problem Solving,Expert,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Team Player,Advanced,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Time management,Advanced,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Communication,Advanced,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,Configuration,Proficient,5,5.0
+1606,Rakesh Kumbhar,6y 11m,Other,AWS,Intermediate,5,5.0
+1661,Richard Dsouza,9y 4m,.NET,Agile,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,MongoDB,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,SSRS,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,MS SQL Server,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,SSIS,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,SQL,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,Web API,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,Javascript,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,AJAX,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,ASP.Net MVC,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,JQuery,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,C#,Advanced,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,Azure,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,ASP.Net Web Form,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,Kentico,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,CSS3,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,MVC,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,CSS,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,HTML5,Proficient,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,HTML,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,Bootstrap,Intermediate,0,4.3
+1661,Richard Dsouza,9y 4m,.NET,.Net core,Intermediate,0,4.3
+1705,Riddhi Naik,6y 4m,Manual QA,Social  Network,Advanced,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Selenium,Intermediate,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,CRM,Proficient,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,SQL,Intermediate,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Real Estate,Intermediate,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Telecom,Intermediate,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,MY SQL,Intermediate,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Retail Management,Advanced,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Health Care,Intermediate,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Usability Testing,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,E-Commerce,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,User Acceptance Testing,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Interview techniques,Advanced,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Browser Compatibility Testing,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Problem Solving,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Regression Testing,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Fundamentals of Performance Testing,Advanced,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Team Player,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Functional Testing,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Fundamentals of Automation Testing,Proficient,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Time management,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Test case development & execution,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Automation Testing,Proficient,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Communication,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Bug Finding,Expert,0,4.5
+1705,Riddhi Naik,6y 4m,Manual QA,Manual Testing,Expert,0,4.5
+1780,Rinku Parate,8y 8m,.NET,Wireframe,Proficient,4,4.6
+1780,Rinku Parate,8y 8m,.NET,UI Development,Proficient,4,4.6
+1780,Rinku Parate,8y 8m,.NET,Designs,Advanced,4,4.6
+1780,Rinku Parate,8y 8m,.NET,MS SQL Server,Advanced,4,4.6
+1780,Rinku Parate,8y 8m,.NET,MySQL,Proficient,4,4.6
+1780,Rinku Parate,8y 8m,.NET,WPF,Advanced,4,4.6
+1780,Rinku Parate,8y 8m,.NET,SQL,Advanced,4,4.6
+1780,Rinku Parate,8y 8m,.NET,C#,Advanced,4,4.6
+1780,Rinku Parate,8y 8m,.NET,ASP,Proficient,4,4.6
+1780,Rinku Parate,8y 8m,.NET,ASP.Net Web Form,Proficient,4,4.6
+1780,Rinku Parate,8y 8m,.NET,Windows Forms,Advanced,4,4.6
+1904,Sneha Bhosale,#N/A,Manual Tester,Time management,Proficient,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Communication,Proficient,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Automation Testing,Intermediate,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Manual Testing,Expert,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Functional Testing,Advanced,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Bug Finding,Advanced,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Regression Testing,Proficient,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Test case development & execution,Proficient,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Fundamentals of Performance Testing,Advanced,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Interview techniques,Intermediate,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Problem Solving,Advanced,0,3.4
+1904,Sneha Bhosale,#N/A,Manual Tester,Team Player,Advanced,0,3.4
+1799,Sneha Harsule,7y 11m,Manual Tester,Regression Testing,Expert,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Functional Testing,Expert,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Retail Management,Advanced,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Test case development & execution,Advanced,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,E-Commerce,Advanced,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Bug Finding,Expert,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Interview techniques,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Fundamentals of Performance Testing,Intermediate,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,CRM,Advanced,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Problem Solving,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Fundamentals of Automation Testing,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Automation Testing,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Team Player,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Manual Testing,Expert,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Time management,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Communication,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Core Java,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Jmeter,Intermediate,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Selenium,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,MY SQL,Proficient,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Usability Testing,Expert,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,User Acceptance Testing,Expert,0,4.3
+1799,Sneha Harsule,7y 11m,Manual Tester,Browser Compatibility Testing,Proficient,0,4.3
+1897,Sonal Kawale,5y 11m,Manual Tester,Fundamentals of Automation Testing,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Automation Testing,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Manual Testing,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Core Java,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Telecom,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Communication,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Selenium,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Regression Testing,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Functional Testing,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Test case development & execution,Proficient,0,4.1
+1897,Sonal Kawale,5y 11m,Manual Tester,Bug Finding,Proficient,0,4.1
+1241,Sumit Khopade,12y 7m,PHP,Laravel,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Moodle,Intermediate,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Open Cart,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Web services,Proficient,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Python core,Proficient,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Django,Proficient,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,SQL,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Postgres,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,NoSQL,Intermediate,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,MongoDB,Proficient,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,SQLite,Advanced,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,HTML,Advanced,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,MS SQL Server,Advanced,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,HTML5,Advanced,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Angular Js,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Javascript,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,JQuery,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,MySQL,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,CSS3,Intermediate,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Zend,Intermediate,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,UI Development,Intermediate,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Smarty,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,CakePHP,Proficient,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Plain PHP,Expert,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Symfony,Intermediate,4,4.0
+1241,Sumit Khopade,12y 7m,PHP,Code Ignitor,Expert,4,4.0
+1881,Sumit Sahu,6y 6m,Angular,Angular Js,Advanced,0,4.3
+1881,Sumit Sahu,6y 6m,Angular,Javascript,Proficient,0,4.3
+1881,Sumit Sahu,6y 6m,Angular,CSS,Advanced,0,4.3
+1881,Sumit Sahu,6y 6m,Angular,Angular,Advanced,0,4.3
+1881,Sumit Sahu,6y 6m,Angular,NodeJS,Proficient,0,4.3
+1881,Sumit Sahu,6y 6m,Angular,HTML,Advanced,0,4.3
+1627,Vilas Mahajan,7y 7m,.NET,AJAX,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,MVC,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Angular Js,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,JQuery,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Web services,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,XML,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,CSS3,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,CSS,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,HTML5,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,MS Access,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,HTML,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,MS SQL Server,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,UI Development,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,SQL,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Bootstrap,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Javascript,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,.Net core,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Angular 2+,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Azure,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Angular,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Web API,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,Angular,Proficient,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,ASP.Net MVC,Advanced,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,NodeJS,Intermediate,5,4.6
+1627,Vilas Mahajan,7y 7m,.NET,C#,Advanced,5,4.6
+1736,Vishal Pawashe,12y 11m,BI,Postgres,Intermediate,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,Oracle,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,Python core,Intermediate,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,Banking & Finance,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,Communication,Advanced,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,Oracle,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,MS SQL Server,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,SQL,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,SSRS,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,SSIS,Proficient,0,4.4
+1736,Vishal Pawashe,12y 11m,BI,C#,Intermediate,0,4.4
